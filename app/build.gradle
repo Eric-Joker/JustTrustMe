@@ -2,11 +2,11 @@ apply plugin: 'com.android.application'
 
 android {
     namespace = "just.trust.me"
-    compileSdkVersion 30
+    compileSdkVersion 35
     defaultConfig {
         applicationId 'just.trust.me'
-        minSdkVersion 16
-        targetSdkVersion 30
+        minSdkVersion 33
+        targetSdkVersion 35
         versionCode 3
         versionName '.3'
     }
