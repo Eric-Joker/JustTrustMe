@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace = "just.trust.me"
     compileSdkVersion 30
     defaultConfig {
         applicationId 'just.trust.me'
